@@ -1,17 +1,17 @@
 ## Hi there, welcome 👋✨
 - 🔭 I’m currently working on CyberSecurity
-- 🌱 I’m currently learning Docker - Tpot
+- 🌱 I’m currently learning Docker - Tpot - AI
 - 👯 I’m looking to collaborate on AI/Cyber Project.
 - 🤔 I’m looking for help with Some Cloud technology
-- 💬 Ask me about Star Wars ⭐✴
-- 📫 How to reach me:   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/xavier-trauchessec/)  
-- ⚡ Fun fact: ...
+- 💬 Ask me about ⭐Star Wars lore (Who shot first? I have *opinions*) ⭐ ✴ Python scripting magic ✴ 
+- 📫 How to reach me:   [![LinkedIn](https://img.shields.io/badge/-CONNECT-0077B5?logo=linkedin)](https://www.linkedin.com/in/xavier-trauchessec/)  
+- ⚡ Fun fact: I assemble code like LEGO® — modular, adaptable, and occasionally stepping on a bug 🧱🐞🛠️ 
 
 ### 🛠️ Tech Stack  ✨
-🐍 Python | ☕ Java | 🔧 TensorFlow/PyTorch | 📦 Docker | 📜 Git | 🔄 CI/CD
+🐍 Python | ☕ Java | 🔧 TensorFlow/PyTorch | 📦 Docker | 📜 Git | 🔄 CI/CD | 🌐 WEB
 
 ### 🛠️ Play Stack  ✨
-🎮 - 🖥️
+🎮 - 🖥️ - 🕹️
 
  ![Xavier GitHub](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RjY3J6ejV6b3V0d2J0OGx4Y3BqOGx3Y2V2d2E0bXQ4b2x4eHp5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
