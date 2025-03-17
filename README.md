@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on AI/Cyber Project.
 - 🤔 I’m looking for help with Some Cloud technology
 - 💬 Ask me about ⭐Star Wars lore (Who shot first? I have *opinions*) ⭐ ✴ Python scripting magic ✴ 
-- 📫 How to reach me:   [![LinkedIn](https://img.shields.io/badge/-CONNECT-0077B5?logo=linkedin)](https://www.linkedin.com/in/xavier-trauchessec/)  
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/xavier-trauchessec/)  
 - ⚡ Fun fact: I assemble code like LEGO® — modular, adaptable, and occasionally stepping on a bug 🧱🐞🛠️ 
 
 ### 🛠️ Tech Stack  ✨
