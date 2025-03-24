@@ -24,7 +24,7 @@
 
  ![Xavier GitHub](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RjY3J6ejV6b3V0d2J0OGx4Y3BqOGx3Y2V2d2E0bXQ4b2x4eHp5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
-⭐ *"Code, create, conquer – one line at a time."* ⭐****
+⭐ ***"Code, create, conquer – one line at a time."*** ⭐
 
 <!-- ## Hi there, Welcome to my profile 👋✨
  ![Tech Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RjY3J6ejV6b3V0d2J0OGx4Y3BqOGx3Y2V2d2E0bXQ4b2x4eHp5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
