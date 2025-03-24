@@ -10,14 +10,15 @@
 ### 🛠️ Tech Stack ✨
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-_Python🐍-3670A0?style=flat-square&logo=python&logoColor=ffdd54" height="24">
-  <img src="https://img.shields.io/badge/-_Java☕-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/-_Docker🐳-FF6F00?style=flat-square&logo=docker&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/-_Git🗂️-000000?style=flat-square&logo=git&logoColor=red" height="24">
-  <img src="https://img.shields.io/badge/-_Pandas🐼-150458?style=flat-square&logo=pandas&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/-_Plotly📊-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="24"> 
-  <img src="https://img.shields.io/badge/-_TensorFlow🤖-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/-_CI/CD⚙️-00A86B?style=flat-square&logo=github-actions&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/Python🐍-3670A0?style=flat-square&logo=python&logoColor=ffdd54" height="24">
+  <img src="https://img.shields.io/badge/Java☕-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/Docker🐳-FF6F00?style=flat-square&logo=docker&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/Git🗂️-000000?style=flat-square&logo=git&logoColor=red" height="24">
+  <img src="https://img.shields.io/badge/Pandas🐼-150458?style=flat-square&logo=pandas&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/Plotly📊-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="24"> 
+  <img src="https://img.shields.io/badge/TensorFlow🤖-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/Linux-7f00ff?style=flat-square&logo=linux&logoColor=black&color=yellow" height="24">
+  <img src="https://img.shields.io/badge/CI/CD⚙️-00A86B?style=flat-square&logo=github-actions&logoColor=white" height="24">
 </div>
 
 ### 🛠️ Play Stack  ✨
