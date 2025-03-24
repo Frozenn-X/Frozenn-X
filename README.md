@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/-_Pandas🐼-150458?style=flat-square&logo=pandas&logoColor=white" height="24">
   <img src="https://img.shields.io/badge/-_Plotly📊-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="24"> 
   <img src="https://img.shields.io/badge/-_TensorFlow🤖-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/-_CI/CD⚙️-00A86B?style=flat-square&logo=github-actions&logoColor=white" height="24">
 </div>
 
 ### 🛠️ Play Stack  ✨
