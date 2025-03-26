@@ -24,9 +24,16 @@
 ### 🛠️ Play Stack  ✨
 🎮 - 🖥️ - 🕹️
 
- ![Xavier GitHub](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RjY3J6ejV6b3V0d2J0OGx4Y3BqOGx3Y2V2d2E0bXQ4b2x4eHp5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+### PROJECT 
+  #### READY :
+-> Preview - [django/docker/sql/mongo](https://djangobasedocker.trauchessec.fr/)  || Git  [django/docker/sql/mongo](https://github.com/Frozenn-X/DockerDjangoBase)
+
+  #### IN PROGRESS :
+-> Preview - [Radar news](https://radarnewsai.trauchessec.fr/dashboard/)
 
 ⭐ ***"Code, create, conquer – one line at a time."*** ⭐
+
+ ![Xavier GitHub](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RjY3J6ejV6b3V0d2J0OGx4Y3BqOGx3Y2V2d2E0bXQ4b2x4eHp5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <!-- ## Hi there, Welcome to my profile 👋✨
  ![Tech Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RjY3J6ejV6b3V0d2J0OGx4Y3BqOGx3Y2V2d2E0bXQ4b2x4eHp5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
